@@ -1,0 +1,30 @@
+[
+	{
+		"constant": false,
+		"inputs": [],
+		"name": "getAge",
+		"outputs": [
+			{
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "newAge",
+				"type": "uint256"
+			}
+		],
+		"name": "setAge",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	}
+]
