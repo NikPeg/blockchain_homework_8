@@ -1,0 +1,24 @@
+{
+  "name": "blockchain_homework_8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hw8_test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikPeg/blockchain_homework_8.git"
+  },
+  "keywords": [
+    "blockchain",
+    "smartcontracts",
+    "smc"
+  ],
+  "author": "Nikita Peganov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikPeg/blockchain_homework_8/issues"
+  },
+  "homepage": "https://github.com/NikPeg/blockchain_homework_8#readme"
+}
